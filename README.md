@@ -1,5 +1,5 @@
 # 2023_shumo_solution
-Work with ZY and LXF at ShanghaiTech University for [“HUAWEI CUP” THE 20TH CHINA POST-GRADUATE MATHEMATICAL CONTEST IN MODELING](https://cpipc.acge.org.cn/cw/hp/4)
+Work with ZY and LXF at ShanghaiTech University for [“HUAWEI CUP” THE 20TH CHINA POST-GRADUATE MATHEMATICAL CONTEST IN MODELING](https://cpipc.acge.org.cn/cw/hp/4).
 
 
 ## 问题一
